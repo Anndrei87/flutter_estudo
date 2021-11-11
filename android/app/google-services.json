@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "864821645344",
+    "project_id": "alura-crashlytics-2fe2f",
+    "storage_bucket": "alura-crashlytics-2fe2f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:864821645344:android:c70822daaed7b41e1aec45",
+        "android_client_info": {
+          "package_name": "com.example.bytebank_contato_2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "864821645344-rs205l496hdnlvp6hjvqt28qlmaqv0vu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYprSJKMcRUCbyxkBXXgbJykz49MKRYBs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "864821645344-rs205l496hdnlvp6hjvqt28qlmaqv0vu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
